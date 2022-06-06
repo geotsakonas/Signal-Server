@@ -2,7 +2,7 @@ Signal-Server
 =================
 
 Documentation
--------------
+----------------
 
 Looking for protocol documentation? Check out the website!
 

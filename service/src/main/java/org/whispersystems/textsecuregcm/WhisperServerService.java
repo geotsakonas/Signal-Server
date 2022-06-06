@@ -782,7 +782,7 @@ public class WhisperServerService extends Application<WhisperServerConfiguration
     filter.setInitParameter("allowCredentials", "true");
   }
 
-  public static void main(String[] args) throws Exception {
+  public static void main(String[] args) {
     new WhisperServerService().run(args);
   }
 }

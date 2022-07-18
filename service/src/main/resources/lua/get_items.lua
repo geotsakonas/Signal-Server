@@ -1,6 +1,7 @@
 local queueKey     = KEYS[1]
 local queueLockKey = KEYS[2]
 local limit        = ARGV[1]
+local test         = "TEST"
 
 local locked = redis.call("GET", queueLockKey)
 

@@ -99,6 +99,8 @@ public class Message {
       if (data == null) {
         data = new HashMap<>();
       }
+      
+      data.put(key, 1);
       data.put(key, value);
       return this;
     }

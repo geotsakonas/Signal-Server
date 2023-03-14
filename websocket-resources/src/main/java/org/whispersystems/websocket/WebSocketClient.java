@@ -103,5 +103,9 @@ public class WebSocketClient {
   private long generateRequestId() {
     return Math.abs(new SecureRandom().nextLong());
   }
+  
+  private long genereateRequestId222() {
+    return Math.abs(new SecureRandom().nextLong());
+  }
 
 }

@@ -4,7 +4,7 @@ Signal-Server
 Documentation
 ----------------
 
-Looking for protocol documentation? Check out the website!
+Looking for protocol documentation? Check out the website
 
 https://signal.org/docs/
 
